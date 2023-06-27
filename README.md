@@ -4,6 +4,8 @@ Site Html, css ve çok az Js kullanılarak yaptım. Amacım bilgilerimi gelişti
 
 # Site Ziyareti için:
 
+Link: https://restaurantib.netlify.app/
+
 # Restaurant Gif
 
 ![](/restaurant.gif)
